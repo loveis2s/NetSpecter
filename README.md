@@ -21,7 +21,7 @@ pip install PyQt6 scapy pydivert
 
 Запусти `launcher.bat` от имени администратора или выполни:
 
-python osn.py
+python NetSpecter
 
 ## Использование
 
